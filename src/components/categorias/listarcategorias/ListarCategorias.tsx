@@ -39,7 +39,7 @@ function ListarCategorias() {
                 flex 
                 justify-center
                 ">
-                <div className="my-4 container flex flex-col">
+                <div className=" my-4 container flex flex-col">
 
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
